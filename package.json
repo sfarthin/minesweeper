@@ -1,0 +1,21 @@
+{
+  "name": "msweeper",
+  "version": "1.0.3",
+  "description": "Minesweeper Console Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "msweeper": "index.js"
+  },
+  "author": "Steve Farthing",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "prettier": "^1.19.1"
+  }
+}
