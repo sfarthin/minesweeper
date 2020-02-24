@@ -1,14 +1,12 @@
 {
   "name": "msweeper",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Minesweeper Console Game",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "bin": {
-    "msweeper": "index.js"
-  },
+  "bin": "./index.js",
   "author": "Steve Farthing",
   "license": "MIT",
   "dependencies": {

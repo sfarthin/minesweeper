@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const readline = require('readline');
 const GameBoard = require('./Gameboard');
 const log = console.log;
